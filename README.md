@@ -1,6 +1,6 @@
 # AprendizajeProfundo
 
-Entrega del trabajo práctico de Aprendisaje Profundo.
+Entrega del trabajo práctico de Aprendizaje Profundo.
  ## Integrantes:
   * Horacio Chiarella
   * Pablo Torres
