@@ -3,7 +3,7 @@
 Entrega del trabajo práctico de Aprendisaje Profundo.
  ## Integrantes:
   * Horacio Chiarella
-  * Pablo Torre
+  * Pablo Torres
   * Diego Gonzalez Dondo
 
 ## Experimentos:
