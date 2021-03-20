@@ -1,0 +1,15 @@
+artifact_uri: file:///users/diegonzalez/AprendizajeProfundo/mlruns/1/7bc69d020b3f457ea7059a6ef9f4c5c8/artifacts
+end_time: 1616216661598
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7bc69d020b3f457ea7059a6ef9f4c5c8
+run_uuid: 7bc69d020b3f457ea7059a6ef9f4c5c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616216661576
+status: 4
+tags: []
+user_id: diegonzalez
