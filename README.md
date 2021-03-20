@@ -1,4 +1,4 @@
-# AprendisajeProfundo
+# AprendizajeProfundo
 
 Entrega del trabajo práctico de Aprendisaje Profundo.
  ## Integrantes:
