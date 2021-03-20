@@ -10,7 +10,7 @@ Entrega del trabajo práctico de Aprendizaje Profundo.
 Se corrio los experimentos con dos algoritmos diferentes, MLP y Cnn. Para ambos experimentos se hizo un barrido de parámetros.
 
 ### MLP
-para este algoritmo se realizó una barrido del parámetro dropput
+para este algoritmo se realizó una barrido del parámetro dropout
 
 ### CNN
 para este red se realizó el barrido del parámetro learning_rate
